@@ -10,43 +10,43 @@ gantt
     %% KHOA CNTT
     %% =====================
     section Khoa CNTT
-    ESDEV 2026: cntt1, 2026-06-01, 2026-06-30
-    IoT Hackathon: cntt2, 2026-05-01, 2026-05-31
-    Programming Contest (2 lần)M: cntt3, 2026-03-01, 2026-10-31
-    AI Golden Bell: cntt4, 2026-09-01, 2026-09-30
-    EIIC + IoT Challenge: cntt5, 2026-08-01, 2026-08-31
-    CTF Challenge: cntt6, 2026-09-01, 2026-09-30
-    OSS + AI (Nguồn mở): cntt7, 2026-10-01, 2026-10-31
-    OJ_Challenge (L1): cntt8, 2026-04-01, 2026-04-30
-    AI Challenge: cntt9, 2026-07-01, 2026-07-31
-    OJ_Challenge (L2): cntt10, 2026-09-01, 2026-09-30
+    ESDEV 2026: cntt1, 2026-01-01, 2026-03-31
+    IoT Hackathon 2026: cntt2, 2026-01-01, 2026-03-31
+    Programming Contest Quý (02 lần): cntt3, 2026-04-01, 2026-11-30
+    ICTU AI Golden Bell Challenge 2026: cntt4, 2026-02-01, 2026-03-31
+    EIIC + IoT Challenge 2026: cntt5, 2026-08-01, 2026-12-31
+    ICTU CTF Challenge 2026: cntt6, 2026-06-01, 2026-08-31
+    OSS + AI 2026 (mã nguồn mở tích hợp AI): cntt7, 2026-03-01, 2026-10-31
+    ICTU OJ Challenge 2026 (02 lần): cntt8, 2026-04-01, 2026-10-31
+    ICTU Artificial Intelligence Challenge 2026: cntt9, 2026-08-01, 2026-12-31
 
     %% =====================
     %% KHOA KT&CN
     %% =====================
     section Khoa KT&CN
-    Lái xe sinh thái: ktcn1, 2026-08-01, 2026-08-31
-    RobotSumo đối kháng: ktcn2, 2026-09-01, 2026-09-30
-    Vũ điệu ánh sáng: ktcn3, 2026-09-01, 2026-09-30
-    Thiết kế vi mạch: ktcn4, 2026-10-01, 2026-10-31
-    Robocon_ABU_2026: ktcn5, 2026-10-01, 2026-10-31
+    Lái xe sinh thái tiết kiệm nhiên liệu: ktcn1, 2026-06-01, 2026-07-31
+    Robot Sumo đối kháng: ktcn2, 2026-11-01, 2026-12-31
+    Vũ điệu ánh sáng: ktcn3, 2026-09-01, 2026-12-31
+    Thiết kế vi mạch: ktcn4, 2026-04-01, 2026-04-30
+    Robocon ABU ICTU 2026: ktcn5, 2026-11-01, 2026-12-31
 
     %% =====================
     %% KHOA KT&QT
     %% =====================
     section Khoa KT&QT
-    KDS 2026: ktqt1, 2026-09-01, 2026-09-30
-    TK Website TMĐT: ktqt2, 2026-11-01, 2026-11-30
+    Kinh doanh số 2026: ktqt1, 2026-04-01, 2026-08-31
+    Thiết kế mô hình quản trị văn phòng hiện đại: ktqt2, 2026-08-01, 2026-11-30
 
     %% =====================
     %% KHOA NT&TT
     %% =====================
     section Khoa NT&TT
-    A&C's TalentDirectors: nttt1, 2026-10-01, 2026-10-31
-    Sáng tạo NT cùng AI: nttt2, 2026-11-01, 2026-11-30
+    A&C's Talent Directors 2026 (phim ngắn): nttt1, 2026-07-01, 2026-12-31
+    Sáng tạo nghệ thuật cùng AI: nttt2, 2026-03-01, 2026-06-30
 
     %% =====================
     %% KHOA KHCB
     %% =====================
     section Khoa KHCB
-    Olympic Tiếng Anh: khcb1, 2026-09-01, 2026-09-30
+    Rung chuông vàng: khcb1, 2026-03-01, 2026-05-31
+
